@@ -1,0 +1,7 @@
+﻿The programming languages that I am proficient in are Python, Latex, Markdown, and Mathematica. I have had exposure in Bash and C, but would not consider myself proficient in them. I have roughly three 
+
+years of Python experience, one year in Latex/Markdown, and roughly six months in Bash. The IDE I commonly use is VScode. The programming language classes that I have taken have been a mix of Physics 
+
+and Computer Science courses. The computational physics courses I have taken have been the use of Python libraries in mass data analysis such as Numpy, SciPy, Matplotlib, Astropy, etc. This course will 
+
+be my first computer science class at Oregon State. My other CS courses I have taken have been at Linn-Benton Community College.
